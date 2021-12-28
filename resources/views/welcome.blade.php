@@ -58,7 +58,16 @@
           </ul>
         </div>
       </nav>
-      <div class="card-group">
+
+      <div class="container-fluid">
+          {{-- <div class="overlay"></div> --}}
+          <div class="description">
+            <h1>Welcome to the Landing Page!</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum quam odio, quis placerat ante luctus eu. Sed aliquet dolor id sapien rutrum, id vulputate quam iaculis. Suspendisse consectetur mi id libero fringilla, in pharetra sem ullamcorper.</p>
+        </div>
+      </div>
+
+      {{-- <div class="card-group">
         <div class="card">
           <img class="card-img-top" src="..." alt="Card image cap">
           <div class="card-body">
@@ -83,6 +92,7 @@
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
           </div>
         </div>
-      </div>
+      </div> --}}
+
 </body>
 </html>
