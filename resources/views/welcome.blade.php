@@ -1,5 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+    <style>
+        h1 {
+            color: #000000;
+            font-style: normal;
+            font-weight: 500;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+        }
+        p {
+    /* font-family: "Lora", sans-serif; */
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 300;
+    font-style: italic;
+    text-transform: none;
+    color: #6d6d6d;
+}
+    </style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +31,7 @@
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light" style="background: #d8c7a8;">
+    <nav class="fixed-top navbar navbar-expand-lg navbar-light" style="background: #d8c7a8;">
         <a class="navbar-brand" href="/"><img id="logo" src="/images/logo.png" height="100" alt="Logo"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -61,38 +79,28 @@
 
       <div class="container-fluid">
           {{-- <div class="overlay"></div> --}}
-          <div class="description">
+          {{-- <div class="description">
             <h1>Welcome to the Landing Page!</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum quam odio, quis placerat ante luctus eu. Sed aliquet dolor id sapien rutrum, id vulputate quam iaculis. Suspendisse consectetur mi id libero fringilla, in pharetra sem ullamcorper.</p>
         </div>
-      </div>
-
-      {{-- <div class="card-group">
-        <div class="card">
-          <img class="card-img-top" src="..." alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-          </div>
-        </div>
-        <div class="card">
-          <img class="card-img-top" src="..." alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-          </div>
-        </div>
-        <div class="card">
-          <img class="card-img-top" src="..." alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-          </div>
-        </div>
       </div> --}}
-
+      <div class="mt-5 mb-2" style="text-align: center">
+          <div>
+            <img src="/images/johannes-plenio-RwHv7LgeC7s-unsplash.jpg" alt="image" height="45%" width="65%">
+          </div>
+      </div>
+    </div>
+    <div class="card-body mt-2" style="text-align: center">
+        <h1 class="px-5">HELPING SMALL BUSINESSES ESTABLISH A BRAND IDENTITY</h1>
+        <p class="px-5">We help you establish your brand and identity by creating beautiful, minimal and unique designs. Focusing on the small creative business owners, we create the perfect brand for you that will enhance your unique business. Working closely with you, knowing your story, we can help you grow and reach your target audience and make it stand out from the crowd.</p>
+    </div>
 </body>
+<footer class="absolute-bottom bg-light text-center text-lg-start">
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2020 Copyright:
+      <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    </div>
+    <!-- Copyright -->
+  </footer>
 </html>
