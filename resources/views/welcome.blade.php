@@ -78,12 +78,6 @@
       </nav>
 
       <div class="container-fluid">
-          {{-- <div class="overlay"></div> --}}
-          {{-- <div class="description">
-            <h1>Welcome to the Landing Page!</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum quam odio, quis placerat ante luctus eu. Sed aliquet dolor id sapien rutrum, id vulputate quam iaculis. Suspendisse consectetur mi id libero fringilla, in pharetra sem ullamcorper.</p>
-        </div>
-      </div> --}}
       <div class="mt-5 mb-2" style="text-align: center">
           <div>
             <img src="/images/johannes-plenio-RwHv7LgeC7s-unsplash.jpg" alt="image" height="45%" width="65%">
@@ -95,12 +89,10 @@
         <p class="px-5">We help you establish your brand and identity by creating beautiful, minimal and unique designs. Focusing on the small creative business owners, we create the perfect brand for you that will enhance your unique business. Working closely with you, knowing your story, we can help you grow and reach your target audience and make it stand out from the crowd.</p>
     </div>
 </body>
-<footer class="absolute-bottom bg-light text-center text-lg-start">
-    <!-- Copyright -->
+<footer class="fixed-bottom bg-light text-center text-lg-start">
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
       © 2020 Copyright:
       <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
     </div>
-    <!-- Copyright -->
   </footer>
 </html>
