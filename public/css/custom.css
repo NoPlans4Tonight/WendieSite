@@ -7,7 +7,9 @@
     background: rgba(0, 0, 0, 0.6);
 }
 #content {
-    background-color: #fefae0;
+    background-color: #ffff;
+    padding-right: 100px;
+    padding-left: 100px;
 }
 #pic_container {
     padding-top: 100px;

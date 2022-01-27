@@ -1,5 +1,5 @@
-    <nav class="fixed-top navbar navbar-expand-lg navbar-light" style="background: #d8c7a8;">
-        <a class="navbar-brand" href="/"><img id="logo" src="/images/logo.png" height="100" alt="Logo"></a>
+    <nav class="fixed-top navbar navbar-expand-lg navbar-light" style="background: #858585;">
+        <a class="navbar-brand pl-2" href="/"><img id="logo" src="/images/logov2.png" height="75" alt="Logo"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
