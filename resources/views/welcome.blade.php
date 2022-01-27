@@ -23,6 +23,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>WendieTDalberg</title>
+    <link rel = "icon" href ="/images/logo.png" type = "image/x-icon">
     <!--CSS-->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <!-- Scripts -->
@@ -40,8 +41,9 @@
       </div>
     </div>
     <div class="card-body mt-2" style="text-align: center">
-        <h1 class="px-5">HELPING SMALL BUSINESSES ESTABLISH A BRAND IDENTITY</h1>
-        <p class="px-5">We help you establish your brand and identity by creating beautiful, minimal and unique designs. Focusing on the small creative business owners, we create the perfect brand for you that will enhance your unique business. Working closely with you, knowing your story, we can help you grow and reach your target audience and make it stand out from the crowd.</p>
+        <h1 class="px-5">Welcome To Wendie Dalberg's Site</h1>
+        <h2>This Website is still under Development</h2>
+        <p class="px-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet incidunt, temporibus quo, consequuntur at autem veritatis est voluptate repudiandae architecto maiores iure impedit. Repudiandae, qui voluptatem labore veritatis modi optio?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt obcaecati, debitis necessitatibus suscipit doloremque quis, ea voluptatum rerum dignissimos mollitia reiciendis cupiditate delectus, provident reprehenderit quo adipisci voluptas amet sequi.</p>
     </div>
 </body>
 <footer class="fixed-bottom text-center navbar-light text-lg-start" style="background: #d8c7a8;">
