@@ -11308,7 +11308,7 @@ textarea.form-control-lg {
 	line-height: 1.5;
 }
 
-.overlay {
+/* .overlay {
     position: absolute;
     min-height: 100%;
     min-width: 100%;
@@ -11321,4 +11321,4 @@ textarea.form-control-lg {
 }
 #pic_container {
     padding-top: 100px;
-}
+} */

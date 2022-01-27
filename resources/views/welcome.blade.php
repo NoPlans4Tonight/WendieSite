@@ -26,6 +26,7 @@
     <link rel = "icon" href ="/images/logo.png" type = "image/x-icon">
     <!--CSS-->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom.css">
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
