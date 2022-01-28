@@ -42,9 +42,9 @@
       </div>
     </div>
     <div class="card-body mt-2" style="text-align: center">
-        <h1 class="px-5">Welcome To Wendie Dalberg's Site</h1>
+        <h1 class="px-3">Welcome To Wendie Dalberg's Site</h1>
         <h2>This Website is still under Development</h2>
-        <p class="px-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet incidunt, temporibus quo, consequuntur at autem veritatis est voluptate repudiandae architecto maiores iure impedit. Repudiandae, qui voluptatem labore veritatis modi optio?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt obcaecati, debitis necessitatibus suscipit doloremque quis, ea voluptatum rerum dignissimos mollitia reiciendis cupiditate delectus, provident reprehenderit quo adipisci voluptas amet sequi.</p>
+        <p class="px-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet incidunt, temporibus quo, consequuntur at autem veritatis est voluptate repudiandae architecto maiores iure impedit. Repudiandae, qui voluptatem labore veritatis modi optio?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt obcaecati, debitis necessitatibus suscipit doloremque quis, ea voluptatum rerum dignissimos mollitia reiciendis cupiditate delectus, provident reprehenderit quo adipisci voluptas amet sequi.</p>
     </div>
 </body>
 <footer class="fixed-bottom text-center navbar-light text-lg-start" style="background: #858585;">
