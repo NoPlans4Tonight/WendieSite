@@ -25,9 +25,12 @@
                   Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item" href="#" target="_blank">Wendie Dalberg</a>
+                  <a class="dropdown-item" href="#" >Wendie Dalberg LCSW</a>
                   {{-- <a class="dropdown-item" href="{{ route('staff.') }}" target="_blank">Haley Lochan</a> --}}
-                  <a class="dropdown-item" href="#" target="_blank">Others</a>
+                  <a class="dropdown-item" href="#" >Ashley Hutchinson-Thuczek MSW</a>
+                  <a class="dropdown-item" href="#" >Haley Rainwater Lochan MSW</a>
+                  <a class="dropdown-item" href="#" >Mary Beth O'Donnell MSW</a>
+                  <a class="dropdown-item" href="#" >Randi Valerious LCSW</a>
                 </div>
               </li>
             <li class="nav-item dropdown">
