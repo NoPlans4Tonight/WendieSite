@@ -1,4 +1,4 @@
-    <nav class="fixed-top navbar navbar-expand-lg navbar-light" style="background: #858585;">
+    <nav class="navbar-static-top  navbar navbar-expand-lg navbar-light" style="background: #858585;">
         <a class="navbar-brand pl-2" href="/"><img id="logo" src="/images/logov2.png" height="75" alt="Logo"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -8,7 +8,7 @@
             <li class="nav-item active">
                 <a class="nav-link" href="#">Home</a>
             </li>
-            <li class="nav-item">
+            {{-- <li class="nav-item">
                 <a class="nav-link" href="#">About</a>
             </li>
             <li class="nav-item">
@@ -19,14 +19,14 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Services</a>
-            </li>
+            </li> --}}
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                   <a class="dropdown-item" href="#" target="_blank">Wendie Dalberg</a>
-                  <a class="dropdown-item" href="{{ route('staff.') }}" target="_blank">Haley Lochan</a>
+                  {{-- <a class="dropdown-item" href="{{ route('staff.') }}" target="_blank">Haley Lochan</a> --}}
                   <a class="dropdown-item" href="#" target="_blank">Others</a>
                 </div>
               </li>
